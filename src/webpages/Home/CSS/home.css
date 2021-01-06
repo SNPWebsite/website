@@ -1,0 +1,67 @@
+body{
+    height: 100%;
+    /*background-image: url("../../images/Srikrishna_bg.jpg");*/
+    background-color: #f7f7f7;
+}
+.row{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    /* background-color: maroon; */
+}
+.Card1{
+    background-color: #ffffff;
+    height: 100%; /*742px;*/
+    width: 76%;/*1440px;*/
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    opacity: 0.9;
+}
+
+.Card1_Quote{
+    color: #0B0C0C;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    line-height: 60px;
+    height: 100%;
+    margin-top: 1%;
+}
+
+@media screen and (max-width: 2000px){
+    .Card1_image{
+        min-width: 45%;
+    }
+    .Card1_Quote{
+        min-width: 40%;
+    }
+}
+
+.Card1_image{
+ /* background-color: #6236FF; */
+}
+
+#card1_image{
+    border: 20px solid #6236FF;
+    border-right: 0px;
+    border-bottom: 0px;
+    min-height: 420px;
+    /* filter: grayscale(100%); */
+}
+
+
+.Message, .Testimonials{
+    background-color: #ffffff;
+    height: auto; /*742px*/
+    width: 76%;/*1440px;*/
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    opacity: 0.9;
+}
+
+#message_img{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

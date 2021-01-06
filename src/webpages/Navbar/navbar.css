@@ -1,0 +1,47 @@
+.navbar1{
+    background-color: #ffffff;
+    margin: auto;
+    width: 76%;
+    height: auto;
+    /* margin-bottom: 10px; */
+    border-radius: 10px;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 5.55%;
+    margin-bottom: 20px;
+}
+
+#logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    background-color: #6236FF;
+
+}
+
+.navbar-collapse, .collapse{
+    margin-top: 10px;
+    margin-right: 10%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.link_buttons{
+    height: 19px;
+    width: 53px;
+    color: #90979E; /*#90979E*/
+    font-family: Lato;
+    font-size: 16px;
+    /* font-weight: 500; */
+    letter-spacing: 0.8px;
+    line-height: 19px;
+}
+
+.navbar_active{
+    color: #6236FF;
+    font-weight: 700;
+}

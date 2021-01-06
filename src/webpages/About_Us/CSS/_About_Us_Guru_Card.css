@@ -1,0 +1,84 @@
+.about_us_guru_card{
+    background-color: #ffffff;
+    height: auto; /*742px*/
+    width: 76%;/*1440px;*/
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    opacity: 0.9;
+}
+
+#about_us_guru_name{
+    color: #0B0C0C;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    line-height: 60px;
+}
+
+#about_us_guru_quote{
+    color: #0B0C0C;
+    font-family: Lato;
+    font-size: 40px;
+    letter-spacing: 0.2px;
+    line-height: 60px;
+}
+
+
+#about_us_guru_desc{
+    color: #6D7278;
+    font-family: Lato;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    line-height: 28px;
+}
+
+.know_more_about_guru{
+    border: 2px solid #6236FF;
+    border-radius: 2px;
+    color: #6236FF;
+    background-color: #ffffff;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.12px;
+    line-height: 60px;
+    padding: 3px 40px 1px 40px;
+    margin-top: 48px;
+}
+
+.know_more_about_guru:hover{
+    border: 2px solid #6236FF;
+    border-radius: 2px;
+    color: #ffffff;
+    background-color: #6236FF;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.12px;
+    line-height: 60px;
+    padding: 3px 40px 1px 40px;
+}
+
+.about_us_guru_row{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.guru_card_img_col{
+    
+}
+
+.guru_card_data_col{
+    /* background-color: brown; */
+}
+
+.about_us_guru_img{
+    border-color: #D8D8D8;
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+    filter: grayscale(100%);
+
+}
